@@ -6,3 +6,6 @@
 Страница про нас к сожалению пустует
 Делая этот проект я использовал Bootstrap и fontawesome.com 
 К сожалению сайт не открывается по ссылке я прикреплю скриншоты с сайта
+
+
+<img width="1866" height="949" alt="image" src="https://github.com/user-attachments/assets/6e3d349d-758f-49c5-9854-25e6d411cc13" />
