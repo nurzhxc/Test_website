@@ -1,0 +1,18 @@
+{% extends 'main/layout.html' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block content %}
+    <div class="features mx-auto">
+        <h1>{{ title }}</h1>
+        <p><span class="ips">Главная страница моего пробного учебного сайта</span></p>
+
+        <a href="{% url 'login' %}" class= 'btn btn-warning me-2 custom-auth-btn'>
+            <i class="fa-solid fa-key"></i> Авторизация
+        </a>
+        <a href="{%url 'about' %}" class= 'btn btn-warning about-us-btn'>
+            На страницу про нас
+        </a>
+
+    </div>
+{% endblock %}
